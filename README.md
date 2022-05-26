@@ -1,6 +1,6 @@
 # Histogram Equalization
 
-University project for the Logical Networks course at Politecnico di Milano, A.Y. 2020-2021.
+University project for the Logical Networks course at Politecnico di Milano, A.Y. 2020/21.
 
 The full specification can be found [here](https://github.com/OttaviaBelotti/histogram-equalization-VHDL/blob/main/project-specifications-italian.pdf) (italian only) and a brief introduction can be found in the [Specifications](#specifications) section below.
 
